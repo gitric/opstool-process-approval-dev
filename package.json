@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/appdevdesigns/opstool-process-approval.git"
+        "url": "git://github.com/gitric/opstool-process-approval.git"
     },
     "author": "ric",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/appdevdesigns/opstool-process-approval/issues"
+        "url": "https://github.com/gitric/opstool-process-approval/issues"
     },
-    "homepage": "https://github.com/appdevdesigns/opstool-process-approval#readme",
+    "homepage": "https://github.com/gitric/opstool-process-approval#readme",
     "dependencies": {
         "ad-utils": "appdevdesigns/ad-utils"
     },
